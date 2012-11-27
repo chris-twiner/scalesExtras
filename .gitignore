@@ -11,3 +11,15 @@ project/plugins/project/
 
 # Scala-IDE specific
 .scala_dependencies
+
+
+/.emacs.desktop
+/.ensime
+*.class
+*.jar
+*.log
+*~
+*#
+.emacs.desktop.lock
+experiments.scalaScript
+continue.txt
